@@ -1,4 +1,4 @@
-# Hi, I'm Biruk 👋
+# Hi there, I'm Biruk Gebru! 👋
 
 I'm a Computer Science student at Georgia State University passionate about software development, artificial intelligence, research, and building technology that creates real-world impact.
 
@@ -45,4 +45,26 @@ Beyond coding, I’m involved in research and tech communities where I collabora
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
 
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/birukgebru/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/birukgeb23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:birukgebru23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/birukgeb23/birukgeb23/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
