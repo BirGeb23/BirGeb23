@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biruk Gebru</h1>
+<h1 align="center">Hi there, I'm Biruk Gebru! 👋</h1>
 
 <h3 align="center">
 Computer Science student passionate about AI, full-stack development, and building impactful technology.
@@ -13,7 +13,6 @@ Computer Science student passionate about AI, full-stack development, and buildi
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nextjs,nodejs,fastapi,mongodb,git,github,vscode,linux,bash" />
 </p>
@@ -21,7 +20,6 @@ Computer Science student passionate about AI, full-stack development, and buildi
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -41,9 +39,7 @@ Computer Science student passionate about AI, full-stack development, and buildi
 </p>
 
 <h2 align="center"> Profile Views</h2>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BirGeb23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 
