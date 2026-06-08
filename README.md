@@ -45,6 +45,8 @@ Beyond coding, I’m involved in research and tech communities where I collabora
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -61,10 +63,13 @@ Beyond coding, I’m involved in research and tech communities where I collabora
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/BirGeb23/BirGeb23/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BirGeb23&label=Profile%20views&color=0e75b6&style=flat" alt="BirGeb23" />
+</p>
+
