@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Biruk Gebru! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=2000&color=7A5AF8&center=true&vCenter=true&width=1000&height=180&lines=HELLO!;I+AM+BIRUK" alt="Typing SVG" />
+</p>
 
 <h3 align="center">
 Computer Science student passionate about AI, full-stack development, and building impactful technology.
@@ -36,10 +38,5 @@ Computer Science student passionate about AI, full-stack development, and buildi
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BirGeb23/BirGeb23/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<h2 align="center"> Profile Views</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BirGeb23&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
