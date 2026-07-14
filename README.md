@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="./banner.png" alt="Biruk Banner" width="100%" />
+  <img src="./banner.png" alt="Biruk Banner" width="780" />
 </p>
 
+<br>
+
 <h3 align="center">
-Computer Science student at Georgia State University passionate about AI, full-stack development, and building technology that creates real-world impact.
+Computer Science student at Georgia State University building AI-powered and full-stack software.
 </h3>
+
 
 ---
 
