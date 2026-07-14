@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=2000&color=7A5AF8&center=true&vCenter=true&width=1000&height=180&lines=HELLO!;I+AM+BIRUK" alt="Typing SVG" />
+  <img src="./banner.png" alt="Biruk Banner" width="100%" />
 </p>
 
 <h3 align="center">
-Computer Science student passionate about AI, full-stack development, and building impactful technology.
+Computer Science student at Georgia State University passionate about AI, full-stack development, and building technology that creates real-world impact.
 </h3>
-
-<p align="center">
-  📍 Georgia State University <br>
-  💻 Software Development • AI • Research <br>
-  🚀 Always learning new technologies
-</p>
 
 ---
 
