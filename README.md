@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Biruk Banner" width="780" />
+  <img src="./banner.png" alt="Biruk Banner" width="600" />
 </p>
 
 <br>
